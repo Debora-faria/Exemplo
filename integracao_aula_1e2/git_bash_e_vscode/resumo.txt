@@ -1,0 +1,6 @@
+Gitbash: 
+comandos de linha para criar, renomear, excluir, mover pastas e arquivos; comandos para se mover entre pastas, diretórios, listar conteudos de pastas
+
+Vscode:
+criar pastas e arquivos, excluir, renomear, usar o gitbash de forma integrada, mover pastas
+

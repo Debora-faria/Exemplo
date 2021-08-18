@@ -1,0 +1,10 @@
+HARDWARE:
+Perfericos de entrada como teclado, mouse pendrive
+Perifericos de saida como impressoras, monitores, caixas de som
+Hardware interno como placa mae, memoria, fonte
+
+SOFTWARE:
+Software de Sistema: como sistemas operacionais e drivers
+Software de aplicação: como CAD, aplicacoes comerciais, automação industrial
+Software de programação: como editores de texto, compiladores de código
+
