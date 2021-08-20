@@ -1,4 +1,4 @@
-Os tipos de servidores:
+Os tipos de servidores são:
 WEB fornece paginas html
 Banco de dados: serviços de bancos de dados
 Arquivos: arquivos em geral para serem compartilhados com clientes
